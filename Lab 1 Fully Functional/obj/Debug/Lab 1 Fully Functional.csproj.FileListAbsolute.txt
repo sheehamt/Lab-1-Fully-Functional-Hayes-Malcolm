@@ -1,0 +1,59 @@
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\Lab 1 Fully Functional.dll.config
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\Lab 1 Fully Functional.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\Lab 1 Fully Functional.pdb
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\csc.exe
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\csc.exe.config
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\csc.rsp
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\csi.exe
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\csi.exe.config
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\csi.rsp
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.AppContext.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Console.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.IO.Compression.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Net.Http.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.ValueTuple.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\vbc.exe
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\vbc.exe.config
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\vbc.rsp
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\VBCSCompiler.exe
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\obj\Debug\Lab 1 Fully Functional.csproj.AssemblyReference.cache
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\obj\Debug\Lab 1 Fully Functional.csproj.CoreCompileInputs.cache
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\obj\Debug\Lab 1 Fully Functional.csproj.CopyComplete
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\obj\Debug\Lab 1 Fully Functional.dll
+C:\Users\SheehanMalcolmThomas\Desktop\solutions\Lab 1 Fully Functional\Lab 1 Fully Functional\obj\Debug\Lab 1 Fully Functional.pdb
